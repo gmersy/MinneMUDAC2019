@@ -1,4 +1,5 @@
-#MinneMUDAC Timeseries Analysis
+# Time series Analysis
+# Author: Christian Sorensen
 
 install.packages("regclass")
 library("regclass")
